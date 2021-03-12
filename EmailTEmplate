@@ -1,0 +1,50 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>One Time Password</title>
+</head>
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td align="center" valign="top"
+        ><br> <br>
+            <table width="600" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td class="abcd" style=" background: #f8f8ff;"
+                    >
+
+                        <div class="p-text" style=" color: #111825;
+ font-size: 24px;
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+ margin-top: 20px;
+ letter-spacing: 2px;">
+                            <br>Request for the Demo Session.<br>
+                        </div>
+                        <div class="as">
+                            <div class="details" style=" color: #616a71;
+ margin-bottom: 30px;
+ font-size: 14px;
+ padding-left: 2rem;
+ line-height: 20px;
+ font-family: sans-serif;
+">
+                                <br> <br> <b>Hello Team,</b><br>
+                                <br>Name : ${name}
+                                <br>Phone : ${phone}
+                                <br>Email : ${email}
+                                <br>Date : ${date}
+                                <br>To visit our
+                                website click on :<a style=" color: #66bb7f;"
+                                                     href="http://helloshraa.com/"> http://helloshraa.com/ </a><br>
+                                Warm Regards,<br>Team Hello Shraa.<br>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            <br> <br></td>
+    </tr>
+</table>
+</body>
+</html>
